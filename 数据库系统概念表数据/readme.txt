@@ -1,0 +1,1 @@
+只要把DDL.sql 和 smallRelationsInsertFile.sql  两个文件导入数据库即可。在Linux下两个文件的换行是正确的；在Windows下，两个文件的换行有问题，可以用windos vim软件或者是UltralEdit软件打开。
